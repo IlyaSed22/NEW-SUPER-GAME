@@ -7,3 +7,12 @@ C:\Users\ISedojkin.INFORMATICS\documents\visual studio 2010\Projects\RPG На ф
 C:\Users\ISedojkin.INFORMATICS\documents\visual studio 2010\Projects\RPG На форме\RPG На форме\obj\x86\Debug\RPG На форме.exe
 C:\Users\ISedojkin.INFORMATICS\documents\visual studio 2010\Projects\RPG На форме\RPG На форме\obj\x86\Debug\RPG На форме.pdb
 C:\Users\ISedojkin.INFORMATICS\documents\visual studio 2010\Projects\RPG На форме\RPG На форме\obj\x86\Debug\RPG На форме.csprojResolveAssemblyReference.cache
+C:\Users\ISedojkin.INFORMATICS\Documents\Visual Studio 2010\Projects\RPG На форме\NEW-SUPER-GAME\RPG На форме\obj\x86\Debug\RPG На форме.exe
+C:\Users\ISedojkin.INFORMATICS\Documents\Visual Studio 2010\Projects\RPG На форме\NEW-SUPER-GAME\RPG На форме\obj\x86\Debug\RPG На форме.pdb
+C:\Users\ISedojkin.INFORMATICS\Documents\Visual Studio 2010\Projects\RPG На форме\NEW-SUPER-GAME\RPG На форме\bin\Debug\RPG На форме.exe
+C:\Users\ISedojkin.INFORMATICS\Documents\Visual Studio 2010\Projects\RPG На форме\NEW-SUPER-GAME\RPG На форме\bin\Debug\RPG На форме.pdb
+C:\Users\ISedojkin.INFORMATICS\Documents\Visual Studio 2010\Projects\RPG На форме\NEW-SUPER-GAME\RPG На форме\obj\x86\Debug\RPG На форме.csprojResolveAssemblyReference.cache
+C:\Users\ISedojkin.INFORMATICS\Documents\Visual Studio 2010\Projects\RPG На форме\NEW-SUPER-GAME\RPG На форме\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\ISedojkin.INFORMATICS\Documents\Visual Studio 2010\Projects\RPG На форме\NEW-SUPER-GAME\RPG На форме\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\ISedojkin.INFORMATICS\Documents\Visual Studio 2010\Projects\RPG На форме\NEW-SUPER-GAME\RPG На форме\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\ISedojkin.INFORMATICS\Documents\Visual Studio 2010\Projects\RPG На форме\NEW-SUPER-GAME\RPG На форме\obj\x86\Debug\RPG На форме.csproj.GenerateResource.Cache

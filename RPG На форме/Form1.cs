@@ -146,6 +146,15 @@ namespace WindowsFormsApplication1
             Game.Instance.EnemyTeam.Clear();
             var f = new Form2();
             f.ShowDialog();
+            foreach (var hero in Game.Instance.EnemyTeam)
+            {
+                hero.OnDeath += DeathStrike;
+            }
+
+            foreach (var hero in Game.Instance.YourTeam)
+            {
+                hero.OnDeath += DeathStrike;
+            }
             listBox2.DataSource = new BindingSource(Game.Instance.EnemyTeam, null);
             listBox1.DataSource = new BindingSource(Game.Instance.YourTeam, null);
             richTextBox1.Clear();
